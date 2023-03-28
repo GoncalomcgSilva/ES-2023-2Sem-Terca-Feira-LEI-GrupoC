@@ -2,7 +2,7 @@
 
 Constituintes:
   - Gonçalo Silva nº 98704 username: GoncalomcgSilva
-  - Carlota Sousa nº 98802 username: 
+  - Carlota Sousa nº 98802 username: carlotarsousa
   - Alexandre Silva nº 99023 username: AlexandreMSS
   - Diogo Lopes nº 99375 username: DiogoL0pes
   - Francisco Rodrigues nº 98830 username: FranciscocsRodrig
