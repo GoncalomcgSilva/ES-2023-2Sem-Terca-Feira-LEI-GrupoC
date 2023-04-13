@@ -1,0 +1,53 @@
+//exemplo de estrutura  do ficheiro json
+{
+   "curso": "Engenharia Informática",
+   "unidadeCurricular": "Programação Orientada a Objetos",
+   "turnos": [
+      {
+         "tipo": "Teórico",
+         "turma": "EI-T1",
+         "inscritos": 40,
+         "aulas": [
+            {
+               "diaSemana": "Segunda-feira",
+               "horaInicio": "09:00",
+               "horaFim": "11:00",
+               "data": "2023-03-27",
+               "sala": "B206",
+               "lotacaoSala": 50
+            },
+            {
+               "diaSemana": "Quarta-feira",
+               "horaInicio": "09:00",
+               "horaFim": "11:00",
+               "data": "2023-03-29",
+               "sala": "B206",
+               "lotacaoSala": 50
+            }
+         ]
+      },
+      {
+         "tipo": "Prático",
+         "turma": "EI-PL1",
+         "inscritos": 20,
+         "aulas": [
+            {
+               "diaSemana": "Terça-feira",
+               "horaInicio": "11:00",
+               "horaFim": "13:00",
+               "data": "2023-03-28",
+               "sala": "C101",
+               "lotacaoSala": 30
+            },
+            {
+               "diaSemana": "Quinta-feira",
+               "horaInicio": "11:00",
+               "horaFim": "13:00",
+               "data": "2023-03-30",
+               "sala": "C101",
+               "lotacaoSala": 30
+            }
+         ]
+      }
+   ]
+}
